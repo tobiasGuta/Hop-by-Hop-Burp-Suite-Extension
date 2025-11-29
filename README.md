@@ -85,6 +85,8 @@ Tech Stack
 
 -   **UI Components:** Swing (JTable, JSplitPane, Burp Native Editors)
 
+https://github.com/user-attachments/assets/21ed50d3-5ac3-42b7-a4f6-aaf5702a1e42
+
 Disclaimer
 ----------
 
