@@ -1,5 +1,6 @@
 Hop-by-Hop (Burp Suite Extension)
 ==========================================
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Security](https://img.shields.io/badge/Cybersecurity-Bug_Bounty-red?style=for-the-badge)
 
 **A Tool for Exploiting Hop-by-Hop Header Stripping Vulnerabilities**
 
